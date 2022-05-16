@@ -1,2 +1,2 @@
 # xacc-theia
-xacc with theia
+xacc and theia in a container
